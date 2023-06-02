@@ -1,0 +1,17 @@
+{
+    "status": 200,
+    "message": "success",
+    "result": {
+        "id": "0ZEYRVISCaqz5yamWZWzaA",
+        "title": "Melukis Senja",
+        "artists": "Budi Doremi",
+        "duration": 251,
+        "popularity": 68,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA"
+        },
+        "preview_url": "https://p.scdn.co/mp3-preview/7ec721e6ce0ccd1c53cd2591403f68bfad37a3d9?cid=4c0524f045794109bc5a14734d031921",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b27337f883f98514a0852046e2f0",
+        "link": "https://ve47.aadika.xyz/download/qZIQAk-BUEc/mp3/128/1685738703/15e837f2f3eb2cf15105fe9cf6ccc838de324b3e280df09f63652a0297bf606c/1"
+    }
+}
